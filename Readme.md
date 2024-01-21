@@ -48,7 +48,7 @@ RECEIVE
 | Power Supply                          | already in shack |                                                                                                                                                                                                                                     |
 | IC-9700                               | already in shack |                                                                                                                                                                                                                                     |
 | PC                                    | already in shack |                                                                                                                                                                                                                                     |
-| Price (at the point of documentation) | ~780€            | The more you have at home on tinker equipment and the more you DIY they cheaper it gets :D                                                                                                                                          |
+| **Price (at the point of documentation)** | **~780€**            | The more you have at home on tinker equipment and the more you DIY they cheaper it gets :D                                                                                                                                          |
 
 ## 1.3 QO-100 Box
 
