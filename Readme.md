@@ -1,12 +1,14 @@
 
-# QO-100 Satellite Communication Project Summary
+# QO-100 Satellite Communication Projects
 
-This document details the QO-100 satellite communication setup, a significant development in amateur radio technology. Initially deployed at Peter's ham shack, this proof-of-concept demonstrates the practicality of the design. The project has attracted interest and active participation from the ham radio community, focusing on continuous development and refinement. It underscores a collective passion for innovating and building within the ham radio realm.
+This document presents various configurations for the QO-100 satellite communication systems. These projects are designed to engage and inspire active involvement from the ham radio community, emphasizing ongoing innovation and enhancement. They aim to highlight the shared enthusiasm for creativity and construction in the field of amateur radio.
+
+vy 73 de ADL805 
 
 ---
 
 ## 1. QO-100 Satellite Communication Setup - Proof-of-concept 1 - IC-9700 at OE8PPLs shack
-The concept was crafted by Chris (OE8CKK) and Michi (OE8YML). It was successfully deployed at the ham shack of Peter (OE8PPL).
+The concept was crafted by Chris (OE8CKK) and Michi (OE8YML). Initially deployed at OE8PPLs Peter's ham shack, this proof-of-concept demonstrates the practicality of the design
 
 ![Concept for IC-9700](/drawings/qo100V1_200124.drawio.png)
 
