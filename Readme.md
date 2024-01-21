@@ -1,7 +1,7 @@
 
 # QO-100 Satellite Communication Projects
 
-This document presents various configurations for the QO-100 satellite communication systems. These projects are designed to engage and inspire active involvement from the ham radio community, emphasizing ongoing innovation and enhancement. They aim to highlight the shared enthusiasm for creativity and construction in the field of amateur radio.
+This repository presents various configurations for the QO-100 satellite communication systems. These projects are designed to engage and inspire active involvement from the ham radio community, emphasizing ongoing innovation and enhancement. They aim to highlight the shared enthusiasm for creativity and construction in the field of amateur radio.
 
 vy 73 de ADL805 
 
@@ -49,3 +49,23 @@ RECEIVE
 | IC-9700                               | already in shack |                                                                                                                                                                                                                                     |
 | PC                                    | already in shack |                                                                                                                                                                                                                                     |
 | Price (at the point of documentation) | ~780€            | The more you have at home on tinker equipment and the more you DIY they cheaper it gets :D                                                                                                                                          |
+
+## 1.3 QO-100 Box
+
+TODO
+
+## 1.4 Microcontroller Code for conrolling the Coaxial Relay
+
+TODO
+
+## 1.5 Pics from the system in real life
+
+TODO
+
+## 2. QO-100 Satellite Communication Setup - Proof-of-concept 2 - Minimal Setup for portable sat
+
+TODO
+
+## 3. QO-100 QO-100 Satellite Communication Setup - Proof-of-concept 3 - Setup using Adalm Pluto
+
+TODO
