@@ -52,7 +52,10 @@ RECEIVE
 
 ## 1.3 QO-100 Box
 
-TODO
+![QO100 BOX 1](/pics/qo100_1.jpg)
+![QO100 BOX 2](/pics/qo100_2.jpg)
+![QO100 BOX 3](/pics/qo100_3.jpg)
+![QO100 BOX 4](/pics/qo100_4.jpg)
 
 ## 1.4 Microcontroller Code for conrolling the Coaxial Relay
 
